@@ -1,24 +1,12 @@
-# simple-pays-test
+# Тестовое задание
 
-## Project setup
+## Установка проекта
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
